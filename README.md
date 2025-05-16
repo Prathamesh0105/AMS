@@ -70,3 +70,4 @@ The system has **18 test cases** to ensure robustness. Below is a brief descript
 18. **Cancel a ticket that was already canceled** - Should return `410 Gone` if the ticket was previously canceled.
 
 # AMS
+# AMS
